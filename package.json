@@ -1,0 +1,22 @@
+{
+  "name": "video-streaming-in-node.js",
+  "version": "1.0.0",
+  "description": "Streaming video for node.js developer",
+  "main": "app.js",
+  "engines": {
+    "node": ">=6.2.0"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Sonu Yadav",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "nodemon": "^1.19.0"
+  },
+  "keywords": [
+    "Video",
+    "Stream"
+  ]
+}
